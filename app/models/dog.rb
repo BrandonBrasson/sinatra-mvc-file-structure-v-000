@@ -6,3 +6,5 @@ def self.all
   @breed = breed
   @age = age
 end
+
+end
