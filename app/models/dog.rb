@@ -10,6 +10,7 @@ class Dog
 
   def self.all
     DOGS
+    #@all
   end
 
 end
