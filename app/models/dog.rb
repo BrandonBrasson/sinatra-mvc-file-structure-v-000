@@ -1,4 +1,4 @@
-class Dog < Sinatra::Base
+class Dog 
 attr_accessor :name, :breed, :age
 
 def initalize
@@ -6,6 +6,7 @@ def initalize
   @breed = breed
   @age = age
 end
+
 def self.all
   @all
 end
