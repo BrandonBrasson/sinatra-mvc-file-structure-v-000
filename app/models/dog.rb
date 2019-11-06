@@ -13,5 +13,3 @@ class Dog
   end
 
 end
-
-© 2019 GitHub
