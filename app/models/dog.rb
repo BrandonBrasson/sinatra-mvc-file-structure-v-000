@@ -10,7 +10,8 @@ def initalize
 end
 
 def self.all
-  @all
+DOGS
+  #@all
 end
 
 end
